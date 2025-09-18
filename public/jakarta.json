@@ -1,0 +1,907 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumen Nasional (Monas)",
+        "category": "Sejarah",
+        "visitors": {
+          "2022": 1051256,
+          "2023": 1176971
+        },
+        "citizens": {
+          "domestic": 73198,
+          "international": 13961
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8272,
+          -6.1754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Mini Indonesia Indah (TMII)",
+        "category": "Budaya",
+        "visitors": {
+          "2022": 217738,
+          "2023": 306254
+        },
+        "citizens": {
+          "domestic": 1492511,
+          "international": 140176
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.895,
+          -6.302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Tua Jakarta",
+        "category": "Sejarah",
+        "visitors": {
+          "2022": 637497,
+          "2023": 688805
+        },
+        "citizens": {
+          "domestic": 453913,
+          "international": 89792
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8133,
+          -6.1352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Nasional Indonesia",
+        "category": "Budaya",
+        "visitors": {
+          "2022": 796262,
+          "2023": 856103
+        },
+        "citizens": {
+          "domestic": 1337225,
+          "international": 258574
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.819,
+          -6.1753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Bank Indonesia",
+        "category": "Budaya",
+        "visitors": {
+          "2022": 767247,
+          "2023": 944873
+        },
+        "citizens": {
+          "domestic": 760601,
+          "international": 192760
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.813,
+          -6.1356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Wayang",
+        "category": "Budaya",
+        "visitors": {
+          "2022": 103079,
+          "2023": 151671
+        },
+        "citizens": {
+          "domestic": 1670398,
+          "international": 200312
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8127,
+          -6.1351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Fatahillah",
+        "category": "Sejarah",
+        "visitors": {
+          "2022": 644588,
+          "2023": 810259
+        },
+        "citizens": {
+          "domestic": 1468832,
+          "international": 141374
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8131,
+          -6.1356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Tekstil",
+        "category": "Budaya",
+        "visitors": {
+          "2022": 745386,
+          "2023": 732822
+        },
+        "citizens": {
+          "domestic": 1421430,
+          "international": 195821
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7998,
+          -6.1865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Sumpah Pemuda",
+        "category": "Sejarah",
+        "visitors": {
+          "2022": 896801,
+          "2023": 912987
+        },
+        "citizens": {
+          "domestic": 1055461,
+          "international": 255597
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8406,
+          -6.1779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Proklamasi",
+        "category": "Sejarah",
+        "visitors": {
+          "2022": 79293,
+          "2023": 154940
+        },
+        "citizens": {
+          "domestic": 423326,
+          "international": 199489
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8321,
+          -6.197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kebun Binatang Ragunan",
+        "category": "Alam",
+        "visitors": {
+          "2022": 856255,
+          "2023": 948076
+        },
+        "citizens": {
+          "domestic": 689471,
+          "international": 195754
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.819,
+          -6.3048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ancol Dreamland",
+        "category": "Rekreasi",
+        "visitors": {
+          "2022": 812321,
+          "2023": 958579
+        },
+        "citizens": {
+          "domestic": 221244,
+          "international": 287919
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8429,
+          -6.1256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunia Fantasi (Dufan)",
+        "category": "Rekreasi",
+        "visitors": {
+          "2022": 855694,
+          "2023": 836542
+        },
+        "citizens": {
+          "domestic": 1453190,
+          "international": 214388
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8365,
+          -6.1237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sea World Ancol",
+        "category": "Rekreasi",
+        "visitors": {
+          "2022": 828714,
+          "2023": 846858
+        },
+        "citizens": {
+          "domestic": 972045,
+          "international": 254102
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8426,
+          -6.1253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantis Water Adventure",
+        "category": "Rekreasi",
+        "visitors": {
+          "2022": 114695,
+          "2023": 257452
+        },
+        "citizens": {
+          "domestic": 1301285,
+          "international": 236788
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.842,
+          -6.1258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allianz Ecopark",
+        "category": "Alam",
+        "visitors": {
+          "2022": 286869,
+          "2023": 316825
+        },
+        "citizens": {
+          "domestic": 1103783,
+          "international": 240034
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8421,
+          -6.128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Suropati",
+        "category": "Alam",
+        "visitors": {
+          "2022": 330829,
+          "2023": 367703
+        },
+        "citizens": {
+          "domestic": 1743702,
+          "international": 52215
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8323,
+          -6.1977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Menteng",
+        "category": "Alam",
+        "visitors": {
+          "2022": 214397,
+          "2023": 409823
+        },
+        "citizens": {
+          "domestic": 277812,
+          "international": 10860
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.832,
+          -6.197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Ayodya",
+        "category": "Alam",
+        "visitors": {
+          "2022": 337152,
+          "2023": 470947
+        },
+        "citizens": {
+          "domestic": 336779,
+          "international": 203827
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7975,
+          -6.2446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lapangan Banteng",
+        "category": "Alam",
+        "visitors": {
+          "2022": 903925,
+          "2023": 1040336
+        },
+        "citizens": {
+          "domestic": 553640,
+          "international": 201864
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.835,
+          -6.1695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Ismail Marzuki (TIM)",
+        "category": "Budaya",
+        "visitors": {
+          "2022": 1029480,
+          "2023": 1001885
+        },
+        "citizens": {
+          "domestic": 1737736,
+          "international": 274761
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8396,
+          -6.1965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung Kesenian Jakarta",
+        "category": "Budaya",
+        "visitors": {
+          "2022": 984665,
+          "2023": 1160348
+        },
+        "citizens": {
+          "domestic": 1348373,
+          "international": 187594
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8353,
+          -6.166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Setu Babakan (Perkampungan Betawi)",
+        "category": "Budaya",
+        "visitors": {
+          "2022": 760133,
+          "2023": 777950
+        },
+        "citizens": {
+          "domestic": 997994,
+          "international": 60535
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8223,
+          -6.3333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jakarta Planetarium",
+        "category": "Edukasi",
+        "visitors": {
+          "2022": 689155,
+          "2023": 768744
+        },
+        "citizens": {
+          "domestic": 1740451,
+          "international": 101870
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8397,
+          -6.197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jakarta Aquarium",
+        "category": "Rekreasi",
+        "visitors": {
+          "2022": 1153333,
+          "2023": 1314264
+        },
+        "citizens": {
+          "domestic": 1463925,
+          "international": 215455
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7921,
+          -6.1815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Indonesia Mall",
+        "category": "Belanja",
+        "visitors": {
+          "2022": 763724,
+          "2023": 921412
+        },
+        "citizens": {
+          "domestic": 265019,
+          "international": 181381
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8206,
+          -6.1961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza Indonesia",
+        "category": "Belanja",
+        "visitors": {
+          "2022": 703248,
+          "2023": 862919
+        },
+        "citizens": {
+          "domestic": 1133307,
+          "international": 63256
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.821,
+          -6.194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Senayan City",
+        "category": "Belanja",
+        "visitors": {
+          "2022": 185906,
+          "2023": 324406
+        },
+        "citizens": {
+          "domestic": 555325,
+          "international": 268622
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7995,
+          -6.225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FX Sudirman",
+        "category": "Belanja",
+        "visitors": {
+          "2022": 600381,
+          "2023": 770900
+        },
+        "citizens": {
+          "domestic": 1603121,
+          "international": 46495
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8076,
+          -6.2275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blok M Square",
+        "category": "Belanja",
+        "visitors": {
+          "2022": 1145081,
+          "2023": 1115122
+        },
+        "citizens": {
+          "domestic": 1817565,
+          "international": 28386
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7972,
+          -6.2441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ITC Mangga Dua",
+        "category": "Belanja",
+        "visitors": {
+          "2022": 60534,
+          "2023": 73689
+        },
+        "citizens": {
+          "domestic": 97059,
+          "international": 131328
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8317,
+          -6.1381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Tidung (Kepulauan Seribu)",
+        "category": "Alam",
+        "visitors": {
+          "2022": 1021982,
+          "2023": 1159176
+        },
+        "citizens": {
+          "domestic": 305530,
+          "international": 228115
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.525,
+          -5.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Pramuka (Kepulauan Seribu)",
+        "category": "Alam",
+        "visitors": {
+          "2022": 680119,
+          "2023": 876334
+        },
+        "citizens": {
+          "domestic": 1266835,
+          "international": 289027
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.617,
+          -5.739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Bidadari",
+        "category": "Alam",
+        "visitors": {
+          "2022": 870030,
+          "2023": 844998
+        },
+        "citizens": {
+          "domestic": 387465,
+          "international": 51789
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.745,
+          -6.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Pari",
+        "category": "Alam",
+        "visitors": {
+          "2022": 457145,
+          "2023": 572092
+        },
+        "citizens": {
+          "domestic": 836812,
+          "international": 32852
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.62,
+          -5.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Macan",
+        "category": "Alam",
+        "visitors": {
+          "2022": 493261,
+          "2023": 463850
+        },
+        "citizens": {
+          "domestic": 1047422,
+          "international": 192706
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5,
+          -5.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Ayer",
+        "category": "Alam",
+        "visitors": {
+          "2022": 374676,
+          "2023": 372236
+        },
+        "citizens": {
+          "domestic": 798707,
+          "international": 25061
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.73,
+          -6.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Harapan",
+        "category": "Alam",
+        "visitors": {
+          "2022": 540431,
+          "2023": 492445
+        },
+        "citizens": {
+          "domestic": 1213735,
+          "international": 60410
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.533,
+          -5.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Kotok",
+        "category": "Alam",
+        "visitors": {
+          "2022": 461508,
+          "2023": 557023
+        },
+        "citizens": {
+          "domestic": 1632619,
+          "international": 174324
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57,
+          -5.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Sepa",
+        "category": "Alam",
+        "visitors": {
+          "2022": 901783,
+          "2023": 1081288
+        },
+        "citizens": {
+          "domestic": 493192,
+          "international": 166039
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.55,
+          -5.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Onrust",
+        "category": "Sejarah",
+        "visitors": {
+          "2022": 406427,
+          "2023": 541356
+        },
+        "citizens": {
+          "domestic": 1896795,
+          "international": 67673
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74,
+          -6.05
+        ]
+      }
+    }
+  ]
+}
